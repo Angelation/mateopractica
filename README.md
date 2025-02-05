@@ -5,3 +5,4 @@
 
 
 ### Formatos
+ ### Actualiza el README.md para incluir la información sobre esta nueva funcionalidad.
